@@ -1,1 +1,1 @@
-In csv file contains sales stats. Calculate conversion rate from touch to deal. Who is the best salesman?  
+
